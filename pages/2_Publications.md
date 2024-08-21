@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Under Review:
 
-- **S. Acharya**, M. Ghosal, TB. Thurber, Y. Zhang, C. Burleyson,  N. Voisin,"[ "Impact of the Inflation Reduction Act and Carbon Capture on Transportation Electrification for a Net-Zero Western U.S. Grid]", 2024.
+- **S. Acharya**, M. Ghosal, TB. Thurber, Y. Zhang, C. Burleyson,  N. Voisin,"Impact of the Inflation Reduction Act and Carbon Capture on Transportation Electrification for a Net-Zero Western U.S. Grid," 2024.
 
 ## Peer Reviewed Journals:
 - **S. Acharya**, TB. Thurber, and M. Ghosal, "[Transportation Electrification Load Profiles by Balancing Authority in the Western United States for GODEEEP](https://zenodo.org/record/7888569)," 2023.
