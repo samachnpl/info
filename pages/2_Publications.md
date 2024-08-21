@@ -5,9 +5,8 @@ permalink: /publications/
 ---
 
 ## Under Review:
-- H. Mahmood, **S. Acharya**, F. Tuffner, AK. Bharati, "[Phasor Domain Dynamic Model of Back-Back Converter as a Microgrid Building Block (MBB)](https://arxiv.org/abs/2402.17056)". Accepted for publication in 2024 IEEE PESGM.
 
-- B. Tarufelli, K. Harris, **S. Acharya**, K. Mahapatra, B. Vyakaranam, A. Campbell, P. Maloney, M. Weimar, A. Zbib, D. Bhatnagar, "EverGREEN 2045: An Energy Mix to Decarbonize Washington State". Accepted for publication in 2024 IEEE PESGM.
+- **S. Acharya**, M. Ghosal, TB. Thurber, Y. Zhang, C. Burleyson,  N. Voisin,"[ "Impact of the Inflation Reduction Act and Carbon Capture on Transportation Electrification for a Net-Zero Western U.S. Grid]", 2024.
 
 ## Peer Reviewed Journals:
 - **S. Acharya**, TB. Thurber, and M. Ghosal, "[Transportation Electrification Load Profiles by Balancing Authority in the Western United States for GODEEEP](https://zenodo.org/record/7888569)," 2023.
@@ -42,6 +41,14 @@ permalink: /publications/
 - H. A. Hamed, A. F. Abdou, M. S. El Moursi, E. E. EL-Kholy, and **S. Acharya**, "[Dynamic direct power control method and system for a grid connected converter](https://patents.google.com/patent/US10637243B1/en)," *US Patent*, 2020.
 
 ## Conference Proceedings:
+- **S. Acharya**,  P. Mana, H. Mahmood, F. Tuffner, AK. Bharati, "[Decoupling Power Quality Issues in Grid-Microgrid Network Using Microgrid Building Blocks]". Accepted for publication in 2024 IEEE IECON.
+
+- **S. Acharya**,  P. Mana, H. Mahmood, F. Tuffner, AK. Bharati, "[Microgrid Building Blocks for Dynamic Decoupling and Black Start Applications](https://arxiv.org/abs/2408.07601)". Accepted for publication in 2025 IEEE PES Grid Edge.
+
+- H. Mahmood, **S. Acharya**, F. Tuffner, AK. Bharati, "[Phasor Domain Dynamic Model of Back-Back Converter as a Microgrid Building Block (MBB)](https://arxiv.org/abs/2402.17056)". Accepted for publication in 2024 IEEE PESGM.
+
+- B. Tarufelli, K. Harris, **S. Acharya**, K. Mahapatra, B. Vyakaranam, A. Campbell, P. Maloney, M. Weimar, A. Zbib, D. Bhatnagar, "EverGREEN 2045: An Energy Mix to Decarbonize Washington State". Accepted for publication in 2024 IEEE PESGM.
+
 - **S. Acharya**, M. Ghosal, TB. Thurber, C. Burleyson, Y. Ou, A. Campbell, G. Iyer, N. Voisin, J. Fuller, "[Weather Sensitive High Spatio-Temporal Resolution Transportation Electric Load Profiles For Multiple Decarbonization Pathways](https://arxiv.org/abs/2307.15237)," 2024 IEEE ISGT NA, pp 1-5. (**Received the Best Paper Award**).
 
 - **S. Acharya**, A. Khan, Y. Dvorkin, R. Karri, "[MaDEVIoT: Attacks on EV Charging Can Disrupt Power Grid Operation](https://ieeexplore.ieee.org/abstract/document/10454199)," 2024 IEEE ISGT NA, pp 1-5.
