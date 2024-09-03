@@ -10,6 +10,8 @@ permalink: /insights-and-engagements/
 
 - My thoughts on reliability and equitability in New York City's power grids: [Why certain NYC neighborhoods endure longer power outages than others after severe weather](https://epicenter-nyc.com/hardest-hit-nyc-communities-left-in-the-dark-longer-after-severe-weather/), 2024
 
+- My paper presenting a proof of concept that public EV charging and power grid data can be weaponized to launch attacks against power grid is featured in the Wall Street Journal's video: [This Is How Easy It Is to Hack EV Charger](https://www.youtube.com/watch?v=J_6BZDnSpGE), 2024.
+
 - My thoughts on EV charging data in Tesla-led North American Charging Standard (NACS): [The real reason Tesla is letting rival car companies use its EV charging stations](https://www.businessinsider.com/tesla-ford-gm-volvo-supercharger-electric-cars-charger-network-data-2023-7), in Business Insiders, 2023
 
 - My [presentation](https://youtu.be/HA0hM1O-UwU?si=Ef3LH7aaly0V0AuO) on power grids' demand-side cybersecurity during my Ph.D. at [CAE in Cybersecurity Community](https://www.caecommunity.org/#:~:text=What%20is%20a%20CAE%20in,National%20Security%20Agency%20(NSA)), 2021.

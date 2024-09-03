@@ -5,12 +5,10 @@ permalink: /publications/
 ---
 
 ## Under Review:
+- **S. Acharya**, M. Ghosal, TB. Thurber, Y. Zhang, C. Burleyson,  N. Voisin,"[Impact of the Inflation Reduction Act and Carbon Capture on Transportation Electrification for a Net-Zero Western U.S. Grid]". 2024.
 
-- **S. Acharya**, M. Ghosal, TB. Thurber, Y. Zhang, C. Burleyson,  N. Voisin,"Impact of the Inflation Reduction Act and Carbon Capture on Transportation Electrification for a Net-Zero Western U.S. Grid," 2024.
 
 ## Peer Reviewed Journals:
-- **S. Acharya**, TB. Thurber, and M. Ghosal, "[Transportation Electrification Load Profiles by Balancing Authority in the Western United States for GODEEEP](https://zenodo.org/record/7888569)," 2023.
-
 - **S. Acharya**, R. Mieth, R. Karri, and Y. Dvorkin, "[False data injection attacks on data markets for electric vehicle charging stations](https://www.sciencedirect.com/science/article/pii/S2666792422000166)," in *Advances in Applied Energy*, 2022.
 
 - **S. Acharya**, R. Mieth, C. Konstantinou, R. Karri, and Y. Dvorkin, "[Cyber Insurance Against Cyberattacks on Electric Vehicle Charging Stations](https://ieeexplore.ieee.org/document/9642055)," in *IEEE Transactions on Smart Grid*, 2022.
@@ -41,7 +39,7 @@ permalink: /publications/
 - H. A. Hamed, A. F. Abdou, M. S. El Moursi, E. E. EL-Kholy, and **S. Acharya**, "[Dynamic direct power control method and system for a grid connected converter](https://patents.google.com/patent/US10637243B1/en)," *US Patent*, 2020.
 
 ## Conference Proceedings:
-- **S. Acharya**,  P. Mana, H. Mahmood, F. Tuffner, AK. Bharati, "[Decoupling Power Quality Issues in Grid-Microgrid Network Using Microgrid Building Blocks]". Accepted for publication in 2024 IEEE IECON.
+- **S. Acharya**,  P. Mana, H. Mahmood, F. Tuffner, AK. Bharati, "[Decoupling Power Quality Issues in Grid-Microgrid Network Using Microgrid Building Blocks](https://arxiv.org/abs/2408.11934)". Accepted for publication in 2024 IEEE IECON.
 
 - **S. Acharya**,  P. Mana, H. Mahmood, F. Tuffner, AK. Bharati, "[Microgrid Building Blocks for Dynamic Decoupling and Black Start Applications](https://arxiv.org/abs/2408.07601)". Accepted for publication in 2025 IEEE PES Grid Edge.
 
